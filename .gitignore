@@ -10,3 +10,9 @@ ntupleAnalysis/outputs/*
 output*
 output/*
 condor/
+*.pdf
+*.pkl
+trigger.txt
+print_file_from_eos_to_json.py
+.ipynb_checkpoints/
+*.json
